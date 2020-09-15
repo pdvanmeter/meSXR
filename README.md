@@ -13,7 +13,7 @@ P. D. VanMeter, _et al._ Rev. Sci. Instrum. 89, 10G119 (2018); https://doi.org/1
 P. D. VanMeter, _et al._ J. Instrum. 14, C09009 (2019); https://doi.org/10.1088/1748-0221/14/09/C09009
 
 ### Repository contents:
-mesxr: This moduel contains code related to the calibration, configuration, and operation of the ME-SXR detector.
-mst_ida: This is my general purpose library for loading in data, modeling diagnostics, and performing analyses.
-notebooks: Jupyter notebooks which archive some of my own analyses and provide a basic tutorial for how to use the library.
-mesxr_runday.py: A script which shows how to use (and automate) the mesxr.operations.camera module, which arms and operates the detector, on a runday.
+__mesxr__: This moduel contains code related to the calibration, configuration, and operation of the ME-SXR detector.  
+__mst_ida__: This is my general purpose library for loading in data, modeling diagnostics, and performing analyses.  
+__notebooks__: Jupyter notebooks which archive some of my own analyses and provide a basic tutorial for how to use the library.  
+__mesxr_runday.py__: A script which shows how to use (and automate) the mesxr.operations.camera module, which arms and operates the detector, on a runday.  
