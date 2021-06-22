@@ -7,10 +7,11 @@ This repository contains code created during and used throughout my PhD project 
 
 The Multi-Energy Soft X-Ray (ME-SXR) system is a plasma diagnostic based on a custom calibration of the PILATUS hybrid photon counting detector. Custom calibrations are used to allow simultaneous use of multiple energy thresholds, along a unique combination of spatial and spectral resolution. This code was developed for the PILATUS3 100K-M unit installed on the Madison Symetric Torus in 2018. This library is composed of two separate modules, described below.
 
-For more information about the diagnostic, see the following references:  
+For more information about the diagnostic and its applications, see the following references:  
 L. F. Delgado-Aparicio, _et al._ Rev. Sci. Instrum. 89, 10G116 (2018); https://doi.org/10.1063/1.5038798  
 P. D. VanMeter, _et al._ Rev. Sci. Instrum. 89, 10G119 (2018); https://doi.org/10.1063/1.5037347  
 P. D. VanMeter, _et al._ J. Instrum. 14, C09009 (2019); https://doi.org/10.1088/1748-0221/14/09/C09009
+P. D VanMeter, PhD Thesis (2020); https://wippl.wisc.edu/pub_files/theses/thesisVanMeter142_2020.pdf
 
 ### Repository contents:
 __mesxr__: This moduel contains code related to the calibration, configuration, and operation of the ME-SXR detector.  
